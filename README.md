@@ -1,6 +1,6 @@
 # Jogo da Velha com Inteligência Artificial
 
-Este é um projeto de **Jogo da Velha (Tic Tac Toe)** desenvolvido em **React Native**, com uma **inteligência artificial integrada**. O oponente (CPU) não realiza apenas jogadas aleatórias — ele analisa o tabuleiro, tenta vencer, bloqueia o jogador e escolhe posições estratégicas.
+Este é um projeto de **Jogo da Velha** desenvolvido em **React Native**, com uma **inteligência artificial integrada**. O oponente (CPU) não realiza apenas jogadas aleatórias — ele analisa o tabuleiro, tenta vencer, bloqueia o jogador e escolhe posições estratégicas.
 
 ## Funcionalidades
 
@@ -45,22 +45,23 @@ git clone https://github.com/seu-usuario/jogo-da-velha-ia.git
 cd jogo-da-velha-ia
 ```
 
-2. Instale as dependências
+### 2. Instale as dependências
 ```bash
 npm install
 ```
 
-3. Execute o projeto
+### 3. Execute o projeto
 ```bash
 npx expo start
 ```
 
 Abra com o app Expo Go (Android/iOS) ou rode em um emulador Android/iOS no seu computador.
 
-# Capturas de Tela
-(Adicione aqui screenshots ou GIFs do app em funcionamento)
+## Capturas de Tela
 
-# Melhorias Futuras
+*(Irei adicionar gifs do projeto)*
+
+## Melhorias Futuras
 - [ ] Níveis de dificuldade (fácil, médio, difícil).
 
 - [ ] Multiplayer local (2 jogadores no mesmo dispositivo).
@@ -69,5 +70,9 @@ Abra com o app Expo Go (Android/iOS) ou rode em um emulador Android/iOS no seu c
 
 - [ ] Efeitos sonoros e animações visuais.
 
-# Autor
+## Autor
 [Guilherme Santos](https://www.linkedin.com/in/guilhermee-santos)
+
+## Licença
+
+Este projeto é destinado a fins educacionais e de aprendizado. Sinta-se à vontade para usar, modificar e distribuir, desde que os créditos sejam mantidos.
